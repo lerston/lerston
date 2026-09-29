@@ -7,7 +7,6 @@ Product designer who builds working prototypes, small tools and home-automation 
 - product and interaction design;
 - rapid prototyping and design-to-code workflows;
 - small local-first visual tools;
-- Home Assistant, ESPHome, AWTRIX and n8n projects;
 - interfaces for constrained and monochrome displays.
 
 Most active infrastructure and smart-home repositories are private because they contain internal topology and operational documentation.
