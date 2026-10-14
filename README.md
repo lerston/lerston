@@ -16,7 +16,7 @@ Most active infrastructure and smart-home repositories are private because they 
 - [GTA VI Countdown for TRMNL](https://github.com/lerston/trmnl-gta-countdown) — a compact Liquid template for an 800 × 480 2-bit display, with daily artwork rotation, reproducible builds and explicit third-party asset notices.
 - [lerston.com](https://lerston.com) — portfolio and contact point.
 
-## How I work
+## How I work 
 
 Changes that affect behavior, deployment, infrastructure or dependencies go through a focused pull request with tests, risks and rollback notes. Small documentation fixes may go directly to `main`. Repository-specific rules live in each project's `CONTRIBUTING.md` and are enforced for coding agents through `AGENTS.md`.
 
